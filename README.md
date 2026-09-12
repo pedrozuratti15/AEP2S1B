@@ -10,5 +10,5 @@
 | Matheus Henrique Ferreira Perassoli | 26009927-2 |
 
 ## Proposta do projeto
-  Auxiliar na gestão, acompanhamento e planejamento das ações
+  Auxiliar na gestão, acompanhamento e planejamento das ações do Programa Saúde na Escola (PSE), através do desenvolvimento de um sistema em linguagem C, executado em terminal.
 
