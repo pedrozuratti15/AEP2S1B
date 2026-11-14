@@ -12,3 +12,6 @@
 ## Proposta do projeto
   Auxiliar na gestão, acompanhamento e planejamento das ações do Programa Saúde na Escola (PSE), através do desenvolvimento de um sistema em linguagem C, executado em terminal.
 
+## Código
+  O arquivo main.c deve ser lido por um compilador e executado, através de IDE's ou terminal.
+
